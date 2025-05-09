@@ -1,5 +1,5 @@
 ## English Number Listening Trainer
-### Detailed [instructions](https://pricezhang42.github.io/2022/01/18/Number-Listening-Trainer.html) and [notes](https://pricezhang42.github.io/2022/01/18/Number-Listening-Trainer-Notes.html)
+### Detailed [instructions](https://pricezhang42.github.io/2022/08/10/Number-Listening-Trainer.html) and [notes](https://pricezhang42.github.io/2022/08/08/Number-Listening-Trainer-Notes.html)
 A desktop app built with Java Swing to train proficiency for listening of English numbers. The basic idea is to make 10 random numbers or dates and your mission is to follow and write them down. You can set formats of the generated numbers and it also provides automatic dictation and correction.
 
 **Run the program by `run/mainFrame.java`**
